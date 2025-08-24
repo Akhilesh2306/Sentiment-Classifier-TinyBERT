@@ -17,7 +17,7 @@ It features an interactive **Streamlit interface** for real-time predictions, a 
 
 ## 🌐 Web Application  
 Try out the live demo here:  
-👉 [Sentiment Classifier TinyBERT](https://sentiment-classifier-tinybert.streamlit.ap
+👉 [Sentiment Classifier TinyBERT](https://sentiment-classifier-tinybert.streamlit.app/)
 
 ---
 
